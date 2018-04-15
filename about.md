@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: "/about/"
-layout: page
+layout: default
 ---
 
 [Home](https://jlevyd15.github.io/jlevyd15/home/)
