@@ -4,6 +4,8 @@ permalink: "/about/"
 layout: page
 ---
 
+[Home](https://jlevyd15.github.io/jlevyd15/home/)
+
 testing from siteleaf
 
 ### More Information
